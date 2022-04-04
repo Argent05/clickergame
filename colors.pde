@@ -1,0 +1,9 @@
+int green = #32E875;
+int red   = #FF0303;
+int darkerred = #9B2226;
+int darkblue =#005F73;
+int mediumblue = #0A9396;
+int orange = #CA6702;
+int black = #001219;
+int yellow = #EE9B00;
+int white = #FFFFFF;
